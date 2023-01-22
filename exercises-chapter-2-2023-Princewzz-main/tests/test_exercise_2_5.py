@@ -1,3 +1,4 @@
+from ,math_utils import isprime
 
 def test_import():
     '''Ensure we can import isprime in the new location.'''

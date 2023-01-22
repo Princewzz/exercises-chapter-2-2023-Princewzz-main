@@ -1,1 +1,1 @@
-from .math_utils import isprime
+from .primes import isprime
